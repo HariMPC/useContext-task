@@ -1,0 +1,28 @@
+.pln-container{
+    display: flex;
+}
+
+.btn-1
+{
+  align-items: center;
+  margin-top: 10px;
+  background-color: white;
+  font-size: medium;
+  border-radius: 0.5rem;
+  font-weight: 900;
+  /* padding: 1rem; */
+}
+.card{
+    font-size: x-large;
+    font-style: italic;
+    padding-top: 3rem !important;
+    padding-bottom: 3rem !important;
+    margin-bottom: 12px!important;
+}
+.card-img{
+  width: 10em;
+  height: 250px;
+}
+.checked {
+  color: orange;
+}
